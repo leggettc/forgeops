@@ -21,8 +21,7 @@ images:
 - name: git-server
   newName: us-docker.pkg.dev/forgeops-public/images/git-server
 - name: idm
-  newName: us-docker.pkg.dev/forgeops-public/images/idm
-  newTag: 7.3.0
+  newName: 574076504146.dkr.ecr.us-east-1.amazonaws.com/forgerock/idm
 - name: ig
   newName: us-docker.pkg.dev/forgeops-public/images/ig
-  newTag: 2023.6.0
+  newTag: 7.1.0
